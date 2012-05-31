@@ -1,0 +1,534 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 62.5%; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: normal; PADDING-TOP: 0px; FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif; BACKGROUND-COLOR: #678fc2
+}
+.Body {
+	FONT-FAMILY: Tahoma, Arial, Verdana, Helvetica
+}
+.Main_Container {
+	MARGIN: 0px; WIDTH: 970px; TEXT-ALIGN: left
+}
+.Main_Containermaster {
+	BACKGROUND-IMAGE: url(img/shadow.gif); WIDTH: 990px; BACKGROUND-REPEAT: repeat-y; BACKGROUND-COLOR: #678fc2
+}
+.Menu_Main {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.Menu_Bottom {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.Banner_Title_Text {
+	COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: "Times New Roman", Times, serif; TEXT-ALIGN: center
+}
+.Banner_Title_Text_H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 24px; COLOR: #ffffff; FONT-FAMILY: "Times New Roman", Times, serif; TEXT-ALIGN: center
+}
+.Quote_Right {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #5e9e84; FONT-STYLE: normal; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.Site_Navigation {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.BodyText {
+	MARGIN-TOP: 15px; FONT-SIZE: 12px; MARGIN-LEFT: 4px; WIDTH: 98%; COLOR: #000000; LINE-HEIGHT: 120%; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.NormalText {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+#ratings {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; BORDER-LEFT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid
+}
+.Video_Duration {
+	FONT-SIZE: 11px; MARGIN-LEFT: 0px; COLOR: #3366cc; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+#Members {
+	FONT-SIZE: 11px; MARGIN-LEFT: 0px; COLOR: #3366cc; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+#Members A {
+	COLOR: #3366cc; TEXT-DECORATION: none
+}
+#Members A:hover {
+	COLOR: #3366cc; TEXT-DECORATION: underline
+}
+#Members A:visited {
+	COLOR: #3366cc
+}
+#Testimonials {
+	FONT-SIZE: 11px; MARGIN-LEFT: 0px; COLOR: #3366cc; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+#Testimonials A {
+	COLOR: #3366cc; TEXT-DECORATION: none
+}
+#Testimonials A:hover {
+	COLOR: #3366cc; TEXT-DECORATION: underline
+}
+#Testimonials A:visited {
+	COLOR: #3366cc
+}
+.Page_Heading {
+	FONT-SIZE: 24px; COLOR: #003466; BORDER-BOTTOM: #1f5176 1px solid; FONT-STYLE: normal; FONT-FAMILY: Tahoma
+}
+.Page_SubHeading {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #003399; FONT-STYLE: normal; FONT-FAMILY: Tahoma
+}
+.Body_Links {
+	FONT-SIZE: 12px; COLOR: #3366ff; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.Start_Learning {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #003333; LINE-HEIGHT: 20px; FONT-STYLE: normal; FONT-FAMILY: Tahoma
+}
+.Join_Now {
+	FONT-WEIGHT: bold; FONT-SIZE: 36px; COLOR: #0066cc; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.Popular_Products {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+H5 {
+	FONT-WEIGHT: bold; WIDTH: 100%; BORDER-BOTTOM: #336699 1px solid
+}
+H3 {
+	FONT-WEIGHT: bold; WIDTH: 100%; BORDER-BOTTOM: #336699 1px solid
+}
+CAPTION {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 4px; MARGIN: 13px 0px 0px; COLOR: #003399; PADDING-TOP: 4px; FONT-FAMILY: Tahoma; TEXT-ALIGN: left
+}
+H5 {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 4px; MARGIN: 13px 0px 0px; COLOR: #003399; PADDING-TOP: 4px; FONT-FAMILY: Tahoma; TEXT-ALIGN: left
+}
+H3 {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 4px; MARGIN: 13px 0px 0px; COLOR: #003399; PADDING-TOP: 4px; FONT-FAMILY: Tahoma; TEXT-ALIGN: left
+}
+.Video_Link_Title {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 0px; COLOR: #336699; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.Video_Link_Title A {
+	TEXT-DECORATION: none
+}
+.Video_Link_Title A:hover {
+	TEXT-DECORATION: underline
+}
+.Video_Link_Title A:visited {
+	COLOR: #336699; TEXT-DECORATION: none
+}
+.LatestVideoReleases {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #336699; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.LatestVideoReleases A {
+	TEXT-DECORATION: none
+}
+.LatestVideoReleases A:hover {
+	COLOR: #336699; TEXT-DECORATION: underline
+}
+.Right_Side_Link_Text {
+	FONT-SIZE: 11px; COLOR: #009933; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.ArticleLink {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-LEFT: 3px; COLOR: #336699; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.MainPageNewVideos {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #009933; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.MainPageNewVideos A {
+	TEXT-DECORATION: none
+}
+.MainPageNewVideos A:link {
+	TEXT-DECORATION: none
+}
+.MainPageNewVideos A:hover {
+	TEXT-DECORATION: underline
+}
+.MainPageNewVideos A:visited {
+	COLOR: #336699; TEXT-DECORATION: none
+}
+.Right_Side_Body_Text {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.Product_Title_Link {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #006699; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.Product_Title_BodyText {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+#smallheight {
+	HEIGHT: 24px
+}
+#Page {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; MARGIN-TOP: 10px; MARGIN-BOTTOM: 10px; BORDER-LEFT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid
+}
+#Page A:link {
+	TEXT-DECORATION: none
+}
+#Page A:hover {
+	TEXT-DECORATION: underline
+}
+HTML {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#bodyborder {
+	BORDER-BOTTOM: #cccccc 1px dotted
+}
+.VideoListText {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-LEFT: 0px; WIDTH: 98%; COLOR: #000000; LINE-HEIGHT: 120%; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.ImmediateDownload {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #006666; FONT-STYLE: normal; FONT-FAMILY: Tahoma
+}
+#MainMenu {
+	HEIGHT: 25px
+}
+#BottomMenu {
+	HEIGHT: 25px
+}
+#BottomMenu A:link {
+	TEXT-DECORATION: none
+}
+#BottomMenu A:hover {
+	TEXT-DECORATION: underline
+}
+#Footer {
+	HEIGHT: 20px; BACKGROUND-COLOR: #ffffff
+}
+.FooterText {
+	FONT-SIZE: 9px; COLOR: #006699; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+#MainMenu A:link {
+	TEXT-DECORATION: none
+}
+#MainMenu A:hover {
+	TEXT-DECORATION: underline
+}
+#NavigationMenu A:link {
+	TEXT-DECORATION: none
+}
+#NavigationMenu A:hover {
+	TEXT-DECORATION: underline
+}
+#MemberLogin {
+	HEIGHT: 25px
+}
+#Fullheight {
+	BORDER-RIGHT: #cccccc 1px dashed; HEIGHT: 100%; BACKGROUND-COLOR: #ffffff
+}
+#borderedbox {
+	BORDER-TOP-WIDTH: thin; PADDING-RIGHT: 1px; PADDING-LEFT: 1px; BORDER-LEFT-WIDTH: thin; BORDER-LEFT-COLOR: #cccccc; BORDER-BOTTOM-WIDTH: thin; BORDER-BOTTOM-COLOR: #cccccc; PADDING-BOTTOM: 1px; BORDER-TOP-COLOR: #cccccc; PADDING-TOP: 1px; BORDER-RIGHT-WIDTH: thin; BORDER-RIGHT-COLOR: #cccccc
+}
+#NavigationMenu {
+	BORDER-TOP: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; HEIGHT: 20px
+}
+.VideoTitlePageList {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #003366; FONT-STYLE: normal; FONT-FAMILY: Verdana; FONT-VARIANT: normal; TEXT-DECORATION: none
+}
+.VideoTitlePageList A {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #003366; FONT-STYLE: normal; FONT-FAMILY: Verdana; FONT-VARIANT: normal; TEXT-DECORATION: none
+}
+.VideoTitlePageList A:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #003366; FONT-STYLE: normal; FONT-FAMILY: Verdana; FONT-VARIANT: normal; TEXT-DECORATION: underline
+}
+.VideoTitlePageList A:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #003366; FONT-STYLE: normal; FONT-FAMILY: Verdana; FONT-VARIANT: normal; TEXT-DECORATION: none
+}
+#Divider {
+	WIDTH: 5px
+}
+#SiteLicense {
+	BORDER-RIGHT: #cccccc 1px dashed; BORDER-TOP: #cccccc 1px dashed; BORDER-LEFT: #cccccc 1px dashed; BORDER-BOTTOM: #cccccc 1px dashed
+}
+.Footer {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.OtherProductsLinks {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-LEFT: 5px; COLOR: #006633; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.LatestArticles {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.Terms {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; WIDTH: 98%; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.OtherVideos {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; MARGIN-LEFT: 5px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.JoinAndAccess {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #0066cc; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.VideoListPage {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #2a499b; LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+#WinstructorProducts {
+	TEXT-DECORATION: none
+}
+#WinstructorProducts A:link {
+	TEXT-DECORATION: none
+}
+#WinstructorProducts A:hover {
+	TEXT-DECORATION: underline
+}
+.Mailing {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+#cont_form_wrapper {
+	
+}
+.ArticleLinkLarge {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #336699; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.ArticleListText {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; WIDTH: 98%; COLOR: #000000; LINE-HEIGHT: 120%; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.ArticleRelatedLink {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; MARGIN-LEFT: 3px; COLOR: #336699; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+#Fullheight2 {
+	BORDER-RIGHT: #cccccc 1px dashed; HEIGHT: 100%; BACKGROUND-COLOR: #ffffff
+}
+#productborder {
+	BORDER-BOTTOM: #cccccc 1px dotted
+}
+#productcontainsvideos {
+	BORDER-BOTTOM: #cccccc 1px dotted
+}
+.librarytext {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 120%; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+#Fullheight3 {
+	HEIGHT: 100%; BACKGROUND-COLOR: #ffffff
+}
+.MainProducts {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #4c74a5; LINE-HEIGHT: 1.5; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.Horizspace {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 15px; BORDER-RIGHT-WIDTH: 0px
+}
+.menuLeftList {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0.7em; PADDING-BOTTOM: 0px; MARGIN: 0px; TEXT-INDENT: -0.7em; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.menuLeftListTop {
+	BORDER-TOP: #8aafe1 1px solid
+}
+.menuLeftListRight {
+	BORDER-RIGHT: #8aafe1 1px solid
+}
+.menuLeftListLeft {
+	BORDER-LEFT: #8aafe1 1px solid
+}
+.menuLeftListSec {
+	BORDER-TOP: #edf4fc 1px solid; MARGIN-BOTTOM: 14px; PADDING-BOTTOM: 9px; BORDER-BOTTOM: #8aafe1 1px solid
+}
+.menuLeftListBGColor {
+	BACKGROUND-COLOR: #edf4fc
+}
+.menuLeftListnav {
+	FONT-SIZE: 1.1em; COLOR: #636363; LINE-HEIGHT: 1.2em; PADDING-TOP: 0px; TEXT-ALIGN: left; WORD-WRAP: break-word
+}
+.menuLeftListnav A {
+	COLOR: #636363; TEXT-DECORATION: none
+}
+.menuLeftListnav A:hover {
+	COLOR: #636363; TEXT-DECORATION: underline
+}
+.menuLeftListnav A:visited {
+	COLOR: #636363
+}
+.menuLeftListSpaceLeft {
+	BORDER-LEFT: #8aafe1 1px solid
+}
+.menuLeftListSpaceRight {
+	BORDER-RIGHT: #8aafe1 1px solid
+}
+#menuLeftListSpacer {
+	WIDTH: 9px
+}
+.menu_pad {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.cntTextPane {
+	FONT-SIZE: 1.1em; PADDING-BOTTOM: 11px; COLOR: #666666; LINE-HEIGHT: 1.3em
+}
+.cntTextPane2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.TextPane2Head {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.2em; COLOR: #336699; LINE-HEIGHT: 1.4em; PADDING-TOP: 11px
+}
+.TextPane2Head A {
+	COLOR: #336699
+}
+.TextPane2Head A:visited {
+	COLOR: #336699
+}
+.webBgColor {
+	BACKGROUND-COLOR: #fff
+}
+.Text-GreyBold {
+	FONT-WEIGHT: bold
+}
+.TextHeading1 {
+	FONT-SIZE: 1.1em; PADDING-BOTTOM: 4px; COLOR: #666666; LINE-HEIGHT: 1.4em
+}
+.News {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 1.4em; PADDING-BOTTOM: 8px; COLOR: #006699; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+#News {
+	TEXT-DECORATION: none
+}
+#News A {
+	TEXT-DECORATION: none
+}
+#News A:hover {
+	TEXT-DECORATION: underline
+}
+#News A:visited {
+	COLOR: #006699
+}
+.NewsBulletedList {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1.1em; LIST-STYLE-IMAGE: url(img/bullet.gif); PADDING-BOTTOM: 2px; MARGIN: 0px 0px 0px 12px; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.Greyline {
+	BORDER-TOP: #cccccc 1px solid; MARGIN-TOP: 2px; BORDER-LEFT-WIDTH: 1px; BORDER-LEFT-COLOR: #cccccc; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: #cccccc; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: #cccccc
+}
+.Bulletedlist {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 0px; PADDING-TOP: 0px
+}
+#Maincontent0pad {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 9px; FONT-SIZE: 1.1em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+#Maincontent0pad {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#SiteNavBar {
+	PADDING-RIGHT: 10px; BORDER-TOP: #8aafe1 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; BORDER-BOTTOM: #8aafe1 1px solid; TEXT-ALIGN: left
+}
+.SiteNavBarColor {
+	BACKGROUND-COLOR: #cde0fd
+}
+.SiteNav {
+	FONT-SIZE: 1em; COLOR: #666666; LINE-HEIGHT: 1.4em
+}
+.SiteNav A {
+	COLOR: #636363; TEXT-DECORATION: none
+}
+.SiteNav A:hover {
+	COLOR: #636363; TEXT-DECORATION: underline
+}
+.SiteNav A:visited {
+	COLOR: #636363
+}
+.FontSizeReduce {
+	FONT-SIZE: 0.91em
+}
+.LeftLineBgColor {
+	BACKGROUND-COLOR: #3593c3
+}
+#SideBox {
+	COLOR: #666666
+}
+#SideBox A:link {
+	TEXT-DECORATION: none
+}
+#SideBox A:hover {
+	TEXT-DECORATION: underline
+}
+#SideBox A:visited {
+	TEXT-DECORATION: none
+}
+.SideBoxTop {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.1em; BACKGROUND-IMAGE: url(/img/sidebxtop.gif); COLOR: #666666; LINE-HEIGHT: 1.2em; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Tahoma,Verdana,Arial,Helvetica,sans-serif; BACKGROUND-COLOR: #f4f4f4
+}
+.SideBox {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; MARGIN-BOTTOM: 10px; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.SideBoxBody {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; FONT-SIZE: 1.2em; PADDING-BOTTOM: 6px; PADDING-TOP: 12px; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Arial,sans-serif; BACKGROUND-COLOR: #f2f2f2
+}
+.SideBoxTitle {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-BOTTOM: 1px; PADDING-TOP: 4px
+}
+.SideBoxList {
+	FONT-SIZE: 0.9em; LIST-STYLE-IMAGE: none; MARGIN-LEFT: -3px; COLOR: #666666; FONT-FAMILY: Tahoma; LIST-STYLE-TYPE: none
+}
+.SideBoxList A {
+	COLOR: #666666
+}
+.SideBoxList A:link {
+	COLOR: #666666
+}
+.SideBoxList A:hover {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+.SideBoxList A:visited {
+	COLOR: #666666
+}
+.MainBodyPadded {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.Table {
+	FONT-SIZE: 100%; LINE-HEIGHT: normal
+}
+.ComingSoonPane {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.ComingSoonPaneBlurb {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1em; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 8px; COLOR: #666666; LINE-HEIGHT: 1.2em; PADDING-TOP: 0px; FONT-STYLE: normal
+}
+.ComingSoonPane1 {
+	PADDING-RIGHT: 12px; PADDING-LEFT: 12px; PADDING-BOTTOM: 12px; PADDING-TOP: 12px
+}
+.ComingSoonPane2 {
+	PADDING-RIGHT: 12px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 9px
+}
+.ComingSoonToolbar {
+	BORDER-RIGHT: #6b82b2 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #6b82b2 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 1.1em; PADDING-BOTTOM: 5px; BORDER-LEFT: #6b82b2 1px solid; COLOR: #003366; PADDING-TOP: 5px; BORDER-BOTTOM: #6b82b2 1px solid; BACKGROUND-REPEAT: repeat-x; ZOOM: 1; BACKGROUND-COLOR: #cde0fd
+}
+#ComingSoonToolbar {
+	BORDER-RIGHT: #6b82b2 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #6b82b2 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 1.1em; PADDING-BOTTOM: 5px; BORDER-LEFT: #6b82b2 1px solid; COLOR: #003366; PADDING-TOP: 5px; BORDER-BOTTOM: #6b82b2 1px solid; BACKGROUND-REPEAT: repeat-x; ZOOM: 1; BACKGROUND-COLOR: #cde0fd
+}
+#ComingSoonToolbar A {
+	TEXT-DECORATION: none
+}
+#ComingSoonToolbar A:link {
+	TEXT-DECORATION: none
+}
+#ComingSoonToolbar A:hover {
+	TEXT-DECORATION: underline
+}
+.Modlist {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.1em; PADDING-BOTTOM: 6px; COLOR: #666666; FONT-FAMILY: Tahoma
+}
+#LeftNav {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 8px; WIDTH: 155px; PADDING-TOP: 0px; BACKGROUND-COLOR: #f2f2f2
+}
+.CustomBorder {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.CustomPad {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+#Line {
+	FONT-SIZE: 1px; WIDTH: 970px; HEIGHT: 6px; BACKGROUND-COLOR: #3593c3
+}
+.ComingSoonVideoListText {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-LEFT: 0px; WIDTH: 98%; COLOR: #ffffff; LINE-HEIGHT: 120%; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.ComingSoonTitleText {
+	FONT-WEIGHT: normal; FONT-SIZE: 1.2em; MARGIN-LEFT: 0px; WIDTH: 98%; COLOR: #ffffff; LINE-HEIGHT: 120%; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+#BodyLinks {
+	TEXT-DECORATION: none
+}
+#BodyLinks A {
+	TEXT-DECORATION: none
+}
+#BodyLinks A:hover {
+	TEXT-DECORATION: underline
+}
+.Announce {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #333333; PADDING-TOP: 5px; BACKGROUND-REPEAT: repeat-x; ZOOM: 1; BACKGROUND-COLOR: #cccccc
+}
+.AnnounceRed {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN-LEFT: 0px; WIDTH: 98%; COLOR: #990000; LINE-HEIGHT: 120%; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.Code {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN-LEFT: 3px; COLOR: #003366; FONT-STYLE: normal; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
